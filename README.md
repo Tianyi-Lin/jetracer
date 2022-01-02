@@ -1,5 +1,7 @@
 # JetRacer
 
+项目文件在notebook文件夹中
+
 <img src="https://user-images.githubusercontent.com/25759564/62127658-741e9080-b287-11e9-8ab9-f4e7e31404b1.png" height=256>
 
 JetRacer is an autonomous AI racecar using NVIDIA Jetson Nano.  With JetRacer you will
